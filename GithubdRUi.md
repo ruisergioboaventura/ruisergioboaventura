@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - Mas que caraio é o Github ?
+- EU não sei o que estou fazendo aqui ?
 
 <!---
 ruisergioboaventura/ruisergioboaventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
